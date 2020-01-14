@@ -1288,11 +1288,11 @@ Leetcode implementations in various languages
 | 1408 | [使结果不超过阈值的最小除数/Find the Smallest Divisor Given a Threshold](questions/1408-Find-the-Smallest-Divisor-Given-a-Threshold-Medium.md) | java,python,go | 中等/Medium |
 | 1409 | [转化为全零矩阵的最少反转次数/Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](questions/1409-Minimum-Number-of-Flips-to-Convert-Binary-Matrix-to-Zero-Matrix-Hard.md) | java,python,go | 困难/Hard |
 | 1420 | [找到连续区间的开始和结束数字/Find the Start and End Number of Continuous Ranges](questions/1420-Find-the-Start-and-End-Number-of-Continuous-Ranges-Medium.md) | java,python,go | 中等/Medium |
-| 100107 | [猜数字/Guess Numbers](questions/100107-Guess-Numbers-Easy.md) | java,python,go | 简单/Easy |
-| 100092 | [分式化简/Deep Dark Fraction](questions/100092-Deep-Dark-Fraction-Easy.md) | java,python,go | 简单/Easy |
-| 100096 | [机器人大冒险/Programmable Robot](questions/100096-Programmable-Robot-Medium.md) | java,python,go | 中等/Medium |
-| 100093 | [覆盖/Broken Board Dominoes](questions/100093-Broken-Board-Dominoes-Hard.md) | java,python,go | 困难/Hard |
-| 100094 | [发 LeetCoin/Coin Bonus](questions/100094-Coin-Bonus-Hard.md) | java,python,go | 困难/Hard |
+| LCP 1 | [猜数字/Guess Numbers](questions/100107-Guess-Numbers-Easy.md) | java,python,go | 简单/Easy |
+| LCP 2 | [分式化简/Deep Dark Fraction](questions/100092-Deep-Dark-Fraction-Easy.md) | java,python,go | 简单/Easy |
+| LCP 3 | [机器人大冒险/Programmable Robot](questions/100096-Programmable-Robot-Medium.md) | java,python,go | 中等/Medium |
+| LCP 4 | [覆盖/Broken Board Dominoes](questions/100093-Broken-Board-Dominoes-Hard.md) | java,python,go | 困难/Hard |
+| LCP 5 | [发 LeetCoin/Coin Bonus](questions/100094-Coin-Bonus-Hard.md) | java,python,go | 困难/Hard |
 
 ------
 
