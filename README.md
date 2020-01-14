@@ -1293,3 +1293,7 @@ Leetcode implementations in various languages
 | 100096 | [机器人大冒险/Programmable Robot](questions/100096-Programmable-Robot-Medium.md) | java,python,go | 中等/Medium |
 | 100093 | [覆盖/Broken Board Dominoes](questions/100093-Broken-Board-Dominoes-Hard.md) | java,python,go | 困难/Hard |
 | 100094 | [发 LeetCoin/Coin Bonus](questions/100094-Coin-Bonus-Hard.md) | java,python,go | 困难/Hard |
+
+------
+
+[APACHE LICENSE 2.0](LICENSE)
