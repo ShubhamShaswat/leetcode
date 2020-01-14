@@ -1,0 +1,41 @@
+#### 超级次方/Super Pow
+**难度：** 中等/Medium
+
+**Question：** 
+
+<p>Your task is to calculate <i>a</i><sup><i>b</i></sup> mod 1337 where <i>a</i> is a positive integer and <i>b</i> is an extremely large positive integer given in the form of an array.</p>
+
+<p><strong>Example 1:</strong></p>
+
+<div>
+<pre>
+<strong>Input: </strong>a = <span id="example-input-1-1">2</span>, b = <span id="example-input-1-2">[3]</span>
+<strong>Output: </strong><span id="example-output-1">8</span>
+</pre>
+
+<div>
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input: </strong>a = <span id="example-input-2-1">2</span>, b = <span id="example-input-2-2">[1,0]</span>
+<strong>Output: </strong><span id="example-output-2">1024</span>
+</pre>
+</div>
+</div>
+
+------
+
+**题目：** 
+<p>你的任务是计算&nbsp;<em>a</em><sup><em>b</em></sup>&nbsp;对&nbsp;1337 取模，<em>a</em> 是一个正整数，<em>b</em> 是一个非常大的正整数且会以数组形式给出。</p>
+
+<p><strong>示例 1:</strong></p>
+
+<pre><strong>输入: </strong>a = 2, b = [3]
+<strong>输出: </strong>8
+</pre>
+
+<p><strong>示例&nbsp;2:</strong></p>
+
+<pre><strong>输入: </strong>a = 2, b = [1,0]
+<strong>输出: </strong>1024</pre>
+

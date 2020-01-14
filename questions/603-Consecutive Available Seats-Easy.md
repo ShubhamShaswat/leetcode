@@ -1,0 +1,11 @@
+#### 连续空余座位/Consecutive Available Seats
+**难度：** 简单/Easy
+
+**Question：** 
+
+None
+
+------
+
+**题目：** 
+None
