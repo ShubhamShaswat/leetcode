@@ -1,7 +1,8 @@
 # leetcode
-Leetcode implementations in various languages
 
-| 序号 | 题目 | 解决方案 | 难度 |
+leetcode 养成计划
+
+| 序号 | 题目 | 解答 | 难度 |
 |-----|-----|------|------|
 | 1 | [两数之和/Two Sum](questions/1-Two-Sum-Easy.md) | java,python,go | 简单/Easy |
 | 2 | [两数相加/Add Two Numbers](questions/2-Add-Two-Numbers-Medium.md) | java,python,go | 中等/Medium |
@@ -1296,4 +1297,5 @@ Leetcode implementations in various languages
 
 ------
 
-[APACHE LICENSE 2.0](LICENSE)
+# LICENCE
+[Apache-2.0](LICENSE)
