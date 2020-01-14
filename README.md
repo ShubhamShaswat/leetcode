@@ -1,11 +1,11 @@
-# leetcode
+# LeetCode
 
 leetcode 养成计划，一步步走向超神，深知一个人力量过于渺小，欢迎 PR 新的不同语言实现及问题修复。
 
 # 官网地址
 
-- 中国官网： [力扣](https://leetcode-cn.com/)
-- [leetcode](https://leetcode.com/)
+- ![中国官网](https://static.leetcode-cn.com/cn-mono-assets/production/head/f2ece5fe978d056f5a425ad3387216ee.svg)： [力扣](https://leetcode-cn.com/)
+- [LeetCode](https://leetcode.com/)
 
 # 问题列表
 
