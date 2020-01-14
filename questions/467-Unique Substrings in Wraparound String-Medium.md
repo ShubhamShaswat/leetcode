@@ -1,0 +1,77 @@
+#### 环绕字符串中唯一的子字符串/Unique Substrings in Wraparound String
+**难度：** 中等/Medium
+
+**Question：** 
+
+<p>Consider the string <code>s</code> to be the infinite wraparound string of "abcdefghijklmnopqrstuvwxyz", so <code>s</code> will look like this: "...zabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcd....".</p>
+
+<p>Now we have another string <code>p</code>. Your job is to find out how many unique non-empty substrings of <code>p</code> are present in <code>s</code>. In particular, your input is the string <code>p</code> and you need to output the number of different non-empty substrings of <code>p</code> in the string <code>s</code>.</p>
+
+<p><b>Note:</b> <code>p</code> consists of only lowercase English letters and the size of p might be over 10000.</p>
+
+<p><b>Example 1:</b><br />
+<pre>
+<b>Input:</b> "a"
+<b>Output:</b> 1
+
+<b>Explanation:</b> Only the substring "a" of string "a" is in the string s.
+</pre>
+</p>
+
+<p><b>Example 2:</b><br />
+<pre>
+<b>Input:</b> "cac"
+<b>Output:</b> 2
+<b>Explanation:</b> There are two substrings "a", "c" of string "cac" in the string s.
+</pre>
+</p>
+
+<p><b>Example 3:</b><br />
+<pre>
+<b>Input:</b> "zab"
+<b>Output:</b> 6
+<b>Explanation:</b> There are six substrings "z", "a", "b", "za", "ab", "zab" of string "zab" in the string s.
+</pre>
+</p>
+
+------
+
+**题目：** 
+<p>把字符串 <code>s</code> 看作是&ldquo;abcdefghijklmnopqrstuvwxyz&rdquo;的无限环绕字符串，所以&nbsp;<code>s</code> 看起来是这样的：&quot;...zabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcd....&quot;.&nbsp;</p>
+
+<p>现在我们有了另一个字符串 <code>p</code> 。你需要的是找出 <code>s</code> 中有多少个唯一的 <code>p</code> 的非空子串，尤其是当你的输入是字符串 <code>p</code> ，你需要输出字符串&nbsp;<code>s</code> 中 <code>p</code> 的不同的非空子串的数目。&nbsp;</p>
+
+<p><strong>注意:</strong> <code>p</code>&nbsp;仅由小写的英文字母组成，p 的大小可能超过 10000。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>示例&nbsp;1:</strong></p>
+
+<pre>
+<strong>输入:</strong> &quot;a&quot;
+<strong>输出:</strong> 1
+<strong>解释:</strong> 字符串 S 中只有一个&quot;a&quot;子字符。
+</pre>
+
+<p>&nbsp;</p>
+
+<p><strong>示例 2:</strong></p>
+
+<pre>
+<strong>输入:</strong> &quot;cac&quot;
+<strong>输出:</strong> 2
+<strong>解释:</strong> 字符串 S 中的字符串&ldquo;cac&rdquo;只有两个子串&ldquo;a&rdquo;、&ldquo;c&rdquo;。.
+</pre>
+
+<p>&nbsp;</p>
+
+<p><strong>示例 3:</strong></p>
+
+<pre>
+<strong>输入:</strong> &quot;zab&quot;
+<strong>输出:</strong> 6
+<strong>解释:</strong> 在字符串 S 中有六个子串&ldquo;z&rdquo;、&ldquo;a&rdquo;、&ldquo;b&rdquo;、&ldquo;za&rdquo;、&ldquo;ab&rdquo;、&ldquo;zab&rdquo;。.
+</pre>
+
+<p>&nbsp;</p>
+
