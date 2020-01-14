@@ -4,7 +4,7 @@ leetcode 养成计划，一步步走向超神，深知一个人力量过于渺�
 
 # 官网地址
 
-- ![中国官网](https://static.leetcode-cn.com/cn-mono-assets/production/head/f2ece5fe978d056f5a425ad3387216ee.svg)： [力扣](https://leetcode-cn.com/)
+- [![中国官网](https://static.leetcode-cn.com/cn-mono-assets/production/head/f2ece5fe978d056f5a425ad3387216ee.svg)](https://leetcode-cn.com/)
 - [LeetCode](https://leetcode.com/)
 
 # 问题列表
@@ -1301,8 +1301,6 @@ leetcode 养成计划，一步步走向超神，深知一个人力量过于渺�
 | LCP 3 | [机器人大冒险/Programmable Robot](questions/100096-Programmable-Robot-Medium.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 中等/Medium |
 | LCP 4 | [覆盖/Broken Board Dominoes](questions/100093-Broken-Board-Dominoes-Hard.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 困难/Hard |
 | LCP 5 | [发 LeetCoin/Coin Bonus](questions/100094-Coin-Bonus-Hard.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 困难/Hard |
-
-------
 
 # LICENCE
 [Apache-2.0](LICENSE)
