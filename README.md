@@ -5,7 +5,7 @@ leetcode 养成计划，一步步走向超神，深知一个人力量过于渺�
 # 官网地址
 
 - [![中国官网](https://static.leetcode-cn.com/cn-mono-assets/production/head/f2ece5fe978d056f5a425ad3387216ee.svg)](https://leetcode-cn.com/)
-- [<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png" width="8%" height="8%">](https://leetcode.com/)
+- <a href="https://leetcode.com/" ><img style="background-color: #0000;width: 10%;" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png"/></a>
 
 # 问题列表
 
