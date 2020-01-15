@@ -1,19 +1,19 @@
 # LeetCode
 
-leetcode 养成计划，一步步走向超神，深知一个人力量过于渺小，欢迎 PR 新的不同语言实现、任何问题修复及 Star。
+Leetcode plan, step by step towards code god, knows that a person's power is too small, and welcomes to **PR the implementation in different languages** , **fixes everythings** and **Star**.
 
-# 语言
+# Language
 - [中文](README.md)
 - [english](README-EN.md)
 
-# 官网地址
+# Official website
 
-- [![中国官网](https://static.leetcode-cn.com/cn-mono-assets/production/head/f2ece5fe978d056f5a425ad3387216ee.svg)](https://leetcode-cn.com/)
+- [![Official website in China](https://static.leetcode-cn.com/cn-mono-assets/production/head/f2ece5fe978d056f5a425ad3387216ee.svg)](https://leetcode-cn.com/)
 - <a href="https://leetcode.com/" ><img style="background-color: black;width: 50px; height: 15px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png"/></a>
 
-# 问题列表
+# Questions
 
-| 序号 | 题目 | 解答 | 难度 |
+| Number | Question | Solution | Difficulty |
 |-----|-----|------|------|
 | 1 | [两数之和/Two Sum](questions/1-Two-Sum-Easy.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 简单/Easy |
 | 2 | [两数相加/Add Two Numbers](questions/2-Add-Two-Numbers-Medium.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 中等/Medium |
