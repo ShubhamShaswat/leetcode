@@ -1,1 +1,1 @@
-Python3 实现
+[python3](solutions/python3/q1112_sol.py)
