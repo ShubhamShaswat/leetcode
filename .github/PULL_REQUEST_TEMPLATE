@@ -1,0 +1,5 @@
+PR 模板 (template)
+- 标题（title）：
+    - [<language>]<solution_filename>
+- 内容（content）：
+    - ref: https://github.com/hi-code-room/leetcode/issues/<issueID>
