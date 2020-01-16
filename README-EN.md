@@ -1306,5 +1306,8 @@ Leetcode plan, step by step towards code god, knows that a person's power is too
 | LCP 4 | [覆盖/Broken Board Dominoes](questions/100093-Broken-Board-Dominoes-Hard.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 困难/Hard |
 | LCP 5 | [发 LeetCoin/Coin Bonus](questions/100094-Coin-Bonus-Hard.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 困难/Hard |
 
+# How to contribute?
+Welcome to PR the new implementation of different languages, and any problem fixes, please refer to [Contribution Guide](docs/en/Contribution Guide.md)
+
 # LICENCE
 [Apache-2.0](LICENSE)
