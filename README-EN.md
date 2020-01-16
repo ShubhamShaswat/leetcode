@@ -1174,10 +1174,7 @@ Leetcode plan, step by step towards code god, knows that a person's power is too
 | 1262 | [子数组中占绝大多数的元素/Online Majority Element In Subarray](questions/1262-Online-Majority-Element-In-Subarray-Hard.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 困难/Hard |
 | 1268 | [市场分析 I/Market Analysis I](questions/1268-Market-Analysis-I-Medium.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 中等/Medium |
 | 1269 | [None/Market Analysis II](questions/1269-Market-Analysis-II-Hard.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 困难/Hard |
-
-| 1112 | [拼写单词/Find Words That Can Be Formed by Characters](questions/1112-Find-Words-That-Can-Be-Formed-by-Characters-Easy.md) | [java](#leetcode),[python3](solutions/python3/q1112_sol.py),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 简单/Easy |
-
-
+| 1112 | [拼写单词/Find Words That Can Be Formed by Characters](questions/1112-Find-Words-That-Can-Be-Formed-by-Characters-Easy.md) | [java](solutions/java/q1112_sol.java),[python3](solutions/python3/q1112_sol.py),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 简单/Easy |
 | 1116 | [最大层内元素和/Maximum Level Sum of a Binary Tree](questions/1116-Maximum-Level-Sum-of-a-Binary-Tree-Medium.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 中等/Medium |
 | 1117 | [地图分析/As Far from Land as Possible](questions/1117-As-Far-from-Land-as-Possible-Medium.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 中等/Medium |
 | 1133 | [按字典序排在最后的子串/Last Substring in Lexicographical Order](questions/1133-Last-Substring-in-Lexicographical-Order-Hard.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 困难/Hard |
