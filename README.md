@@ -1306,5 +1306,8 @@ leetcode 养成计划，一步步走向超神，深知一个人力量过于渺�
 | LCP 4 | [覆盖/Broken Board Dominoes](questions/100093-Broken-Board-Dominoes-Hard.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 困难/Hard |
 | LCP 5 | [发 LeetCoin/Coin Bonus](questions/100094-Coin-Bonus-Hard.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 困难/Hard |
 
+# 如何贡献
+欢迎 PR 新的不同语言实现，以及任何问题修复，请参考[贡献指南](docs/zh/贡献指南.md)。
+
 # LICENCE
 [Apache-2.0](LICENSE)
