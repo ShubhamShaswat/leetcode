@@ -9,7 +9,7 @@ Leetcode plan, step by step towards code god, knows that a person's power is too
 # Official website
 
 - [![Official website in China](https://static.leetcode-cn.com/cn-mono-assets/production/head/f2ece5fe978d056f5a425ad3387216ee.svg)](https://leetcode-cn.com/)
-- <a href="https://leetcode.com/" ><img style="background-color: black;width: 50px; height: 15px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png"/></a>
+- [LeetCode](https://leetcode.com/)
 
 # Questions
 
