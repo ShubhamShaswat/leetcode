@@ -1,10 +1,10 @@
 # LeetCode
 
-Leetcode plan, step by step towards code god, knows that a person's power is too small, and welcomes to **PR the implementation in different languages** , **fixes everythings** and **Star**.
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-# Language
-- [中文](README.md)
-- [english](README-EN.md)
+[中文](README.md) | [english](README-EN.md)
+
+Leetcode plan, step by step towards code god, knows that a person's power is too small, and welcomes to **PR the implementation in different languages** , **fixes everythings** and **Star**.
 
 # Official website
 

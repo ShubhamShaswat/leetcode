@@ -1,10 +1,10 @@
 # LeetCode
 
-leetcode 养成计划，一步步走向超神，深知一个人力量过于渺小，欢迎 PR 新的不同语言实现、任何问题修复及 Star。
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-# 语言
-- [中文](README.md)
-- [english](README-EN.md)
+[中文](README.md) | [english](README-EN.md)
+
+leetcode 养成计划，一步步走向超神，深知一个人力量过于渺小，欢迎 PR 新的不同语言实现、任何问题修复及 Star。
 
 # 官网地址
 
