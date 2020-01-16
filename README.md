@@ -15,7 +15,7 @@ leetcode 养成计划，一步步走向超神，深知一个人力量过于渺�
 
 | 序号 | 题目 | 解答 | 难度 |
 |-----|-----|------|------|
-| 1 | [两数之和/Two Sum](questions/1-Two-Sum-Easy.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 简单/Easy |
+| 1 | [两数之和/Two Sum](questions/1-Two-Sum-Easy.md) | [java](#leetcode),[python3](solutions/python3/q1_sol.py),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 简单/Easy |
 | 2 | [两数相加/Add Two Numbers](questions/2-Add-Two-Numbers-Medium.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 中等/Medium |
 | 3 | [无重复字符的最长子串/Longest Substring Without Repeating Characters](questions/3-Longest-Substring-Without-Repeating-Characters-Medium.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 中等/Medium |
 | 4 | [寻找两个有序数组的中位数/Median of Two Sorted Arrays](questions/4-Median-of-Two-Sorted-Arrays-Hard.md) | [java](#leetcode),[python3](#leetcode),[go](#leetcode),[c](#leetcode),[c#](#leetcode),[cpp](#leetcode),[js](#leetcode) | 困难/Hard |
