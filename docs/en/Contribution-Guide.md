@@ -35,4 +35,4 @@
 ref: https://github.com/hi-code-room/leetcode/issues/<issueID>
 ```
 
-Note:  <language> refers to your implementation language,<File full path> refer to file full path, <issueID> refers to issue id. [refer to this PR](https://github.com/hi-code-room/leetcode/pull/4459)
+Note:  `<language>` refers to your implementation language,`<File full path>` refer to file full path, `<issueID>` refers to issue id. [refer to this PR](https://github.com/hi-code-room/leetcode/pull/4459)
