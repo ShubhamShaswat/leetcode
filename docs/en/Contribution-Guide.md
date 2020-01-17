@@ -10,11 +10,12 @@
 
 # Submit new implementation
 
-1. Use the issue list to find issues that you are interested in and `pending` status. Modify the label to `doing`, which means you have accepted the task.
-2. Corresponding language code implementation.
-3. Modify the README.md file in the directory of corresponding language , and modify [README.md](../../README.md) and [README-EN.md](../../README-EN.md) in the root directory.
-4. Submit PR upon completion.
-5. The PR will be merged after review.
+1. Use the issue list to find issues that you are interested in and `pending` status. Comment area input `/accept`
+1. The administrator will modify the label to `doing`, which means you have accepted the task.
+1. Corresponding language code implementation.
+1. Modify the README.md file in the directory of corresponding language , and modify [README.md](../../README.md) and [README-EN.md](../../README-EN.md) in the root directory.
+1. Submit PR upon completion.
+1. The PR will be merged after review.
 
 # Submit another solution to an existing implementation
 
