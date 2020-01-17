@@ -10,11 +10,12 @@
 
 # Submit new implementation
 
-1. Use the issue list to find issues that you are interested in and `pending` status. Modify the label to `doing`, which means you have accepted the task.
-2. Corresponding language code implementation.
-3. Modify the README.md file in the directory of corresponding language , and modify [README.md](../../README.md) and [README-EN.md](../../README-EN.md) in the root directory.
-4. Submit PR upon completion.
-5. The PR will be merged after review.
+1. Use the issue list to find issues that you are interested in and `pending` status. Comment area input `/accept`
+1. The administrator will modify the label to `doing`, which means you have accepted the task.
+1. Corresponding language code implementation.
+1. Modify the README.md file in the directory of corresponding language , and modify [README.md](../../README.md) and [README-EN.md](../../README-EN.md) in the root directory.
+1. Submit PR upon completion.
+1. The PR will be merged after review.
 
 # Submit another solution to an existing implementation
 
@@ -22,3 +23,16 @@
 2. Write your implementation method and save it to an existing file (keep the original implementation method).
 3. Submit PR upon completion.
 4. The PR will be merged after review.
+
+# PR Template
+
+**title:**
+```
+[<language>] File full path
+```
+**content:** 
+```
+ref: https://github.com/hi-code-room/leetcode/issues/<issueID>
+```
+
+Note:  <language> refers to your implementation language,<File full path> refer to file full path, <issueID> refers to issue id. [refer to this PR](https://github.com/hi-code-room/leetcode/pull/4459)
