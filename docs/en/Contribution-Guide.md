@@ -23,3 +23,16 @@
 2. Write your implementation method and save it to an existing file (keep the original implementation method).
 3. Submit PR upon completion.
 4. The PR will be merged after review.
+
+# PR Template
+
+**title:**
+```
+[<language>] File full path
+```
+**content:** 
+```
+ref: https://github.com/hi-code-room/leetcode/issues/<issueID>
+```
+
+Note:  <language> refers to your implementation language,<File full path> refer to file full path, <issueID> refers to issue id. [refer to this PR](https://github.com/hi-code-room/leetcode/pull/4459)
